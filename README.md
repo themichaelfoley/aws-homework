@@ -1,6 +1,6 @@
 # aws-homework
 
-The notebook code can be viewed [HERE]()
+The notebook code can be viewed [HERE](https://github.com/themichaelfoley/aws-homework/blob/main/Homework_Option_2/Starter_Files/crypto_clustering.ipynb)
 
 # Unit 13 Homework Assignment - Option 2: Clustering Crypto
 ![Cryptocurrencies coins](Images/cryptocurrencies-coins.jpg)
